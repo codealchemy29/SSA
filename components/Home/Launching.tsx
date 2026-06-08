@@ -98,7 +98,7 @@ export default function Launching() {
           {/* RIGHT IMAGE */}
           <div className="relative h-[350px] md:h-[450px] lg:h-[600px]">
             <Image
-              src="/launch3.jpg"
+              src="/Launch3.jpg"
               alt="Hunter Valley"
               fill
               priority
